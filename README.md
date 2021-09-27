@@ -13,3 +13,6 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+https://testnets.opensea.io/collection/gokunft-v2
+https://testnets.opensea.io/collection/gokunft
