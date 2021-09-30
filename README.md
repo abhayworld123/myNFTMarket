@@ -10,5 +10,5 @@ node scripts/sample-script.js
 npx hardhat help
 ```
 
-https://testnets.opensea.io/collection/gokunft-v2
+https://testnets.opensea.io/collection/gokunft-lsqeiygfrm
 https://testnets.opensea.io/collection/gokunft
